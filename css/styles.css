@@ -1,0 +1,11 @@
+img {
+    margin-left: 17%;
+    width: 50%;
+}
+
+@media only screen and (max-width: 600px) {
+    img {
+        margin-left: 2%;
+        width: 100%; /* Asegúrate de agregar la unidad de medida (px, %, etc.) aquí */
+    }
+}
